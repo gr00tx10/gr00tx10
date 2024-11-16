@@ -4,7 +4,7 @@ Self taught with a passion for cybersecurity, I'm excited to launch my career in
 
 ## 🌐 Social
 
-###  [👨‍💻THM](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=124694100)
+###  [👨‍💻THM](https://tryhackme.com/grootx10)
 ###  [Linkedin](https://linkedin.com/in/govind-gp)
 
 ## 📊 Github Stats
