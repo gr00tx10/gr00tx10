@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @grootx10
-- 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently self learning 
-- 💞️ I’m looking to collaborate on projects
-<!---
-grootx10/grootx10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+ 
+### Profile View Count
+
+[![](https://visitcount.itsvg.in/api?id=grootx10&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+
+
+
